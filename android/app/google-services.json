@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094540369550",
+    "firebase_url": "https://begoody-app.firebaseio.com",
+    "project_id": "begoody-app",
+    "storage_bucket": "begoody-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094540369550:android:4e95b4701c6166893ab3df",
+        "android_client_info": {
+          "package_name": "com.begoodyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094540369550-6qgqld5nnfobdi61bvvqph0e5pampn4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRVQ1UMsRIeTXWMLwPefgO3Jc04oqza8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094540369550-6qgqld5nnfobdi61bvvqph0e5pampn4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
